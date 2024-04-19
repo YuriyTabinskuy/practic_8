@@ -1,0 +1,45 @@
+
+.block1{
+    height: 70px;
+    background-color: rgb(247, 242, 242);
+    position: relative;
+
+}
+.header-list{
+    list-style-type: none;
+    float: left;
+    margin-left: 150px;
+    color:black;
+    font-size: 25px;
+}
+ul{
+    position: absolute;
+    margin-top: 20px;
+    left: 25%;
+    margin-right: -50;
+
+}
+.header-list:hover{
+color: blue;
+}
+body{
+    background-color: rgb(192, 185, 185);
+}
+.block2{
+    height: 120px;
+    width: 800px;
+    border-radius: 20px;
+    background-color:rgb(247, 242, 242) ;
+    margin: 20px 30px 15px 260px;
+}
+.block3{
+        height: 120px;
+        width: 800px;
+        border-radius: 20px;
+        background-color:rgb(247, 242, 242) ; 
+        margin-top: 20px;
+}
+.block2,
+.block3{
+    float: left;
+}
